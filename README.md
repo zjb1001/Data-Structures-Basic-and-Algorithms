@@ -28,5 +28,6 @@
   
 - Queue->[queue]
   <>队列作为一种先进先出数据结构，在工程中有着广泛使用，就像生活中的排队一样，打印进机任务管理，商家提供计时收费服务，都可以依赖队列模拟<br>
+  队列在查找，删除，插入均为O(1)，作为有序操作过程，可以对两端进行操作，构造队列基于线性结构均可实现<br>
   queue->
   [Queue](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/queue.c)<br>
