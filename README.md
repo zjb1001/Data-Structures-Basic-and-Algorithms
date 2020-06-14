@@ -60,5 +60,6 @@
   在规划算法的时候，增、删、改过程的瓶颈点，会促使采用合适的数据结构应对
  - qsort(->分治）[qsort](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p24_qsort.c)<br>
  - megersort->[mergerSort](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p25_megersort.c)<br>
+ - Heap->堆排就是建堆的过程，可以参考数据结构Heap<br>
  - longestPalindrome(动划)->[longestPalindrome](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/longestPalindrome.cpp)<br>
  
