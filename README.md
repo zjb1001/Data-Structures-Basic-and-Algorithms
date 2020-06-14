@@ -43,3 +43,4 @@
 
 - Heap->[Heap](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/tree/master/Heap)<br>
   <>堆作为一种完全二叉树，有着特定的使用范畴。如果队列、栈作为顺序操作满足静态序列要求，堆就是动态序列要求。比如操作系统的任务调度，让计算机始终满负载运行，始终提取可计算任务放在堆顶；进行序列调整是进行堆排
+- HuffmanCode->[HuffmanCode](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p14_HuffmanCode.c)<br>
