@@ -48,4 +48,4 @@
 -<Graph>->
   <>现实中关系网最普遍的代表抽象模型是图，她可以描述生活中联系网络，树可以看做图的退化
 - 连通集->[]
-- 六度空间
+- 六度空间->[six degree](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/sixdegree.cpp)<br>
