@@ -23,3 +23,4 @@
 - Stack->[stack](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/stack.h)<br>
   <>堆栈实际应用中有着广泛的应用，浏览器历史的后退，浏览器，文件路径浏览，还有一些编程过程减轻思考压力，标记符对应，深搜非递归模拟系统栈<br>
   栈，查找，删除，插入均为O(1)，作为有序操作过程，只能对一端操作
+  [valid parentthese](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/validParentheses.cpp)<br>
