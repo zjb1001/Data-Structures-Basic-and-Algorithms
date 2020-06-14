@@ -53,6 +53,6 @@
 # Algorithm
   算法从整体策略来说分为，分而治之，归并，贪心和动态规划。一般一个问题的直接处理方式暴力求解贪心，如果暴力效率低，可以寻求减少问题规模，这就是分而治之和归并。如果发现分拆过程子问题和原问题是同一类，采用递归求解，而递归树有重复求解，采用动划减少求解规模。
   在规划算法的时候，增、删、改过程的瓶颈点，会促使采用合适的数据结构应对
- - qsort
+ - qsort->[qsort](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p24_qsort.c)<br>
  - megersort
  
