@@ -40,3 +40,6 @@
   Tree bsttreemorphism[树的同构][bsttreemorphism](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p9_bsttreemorphism.c)<br>
   <>二叉树查询效率高，需要保持两边平衡，如果单边树就退化为链表，因此在工程中有了平衡二叉树和B+树对基础二叉树做补充<br>
 - AVLTree->[AVLTree](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/AVLTree/avltree.c)<br>
+
+- Heap->[Heap](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/tree/master/Heap)<br>
+  <>堆作为一种完全二叉树，有着特定的使用范畴。如果队列、栈作为顺序操作满足静态序列要求，堆就是动态序列要求。比如操作系统的任务调度，让计算机始终满负载运行，始终提取可计算任务放在堆顶；进行序列调整是进行堆排
