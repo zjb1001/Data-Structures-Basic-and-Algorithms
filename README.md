@@ -37,3 +37,4 @@
   <>二叉搜索树作为一种数据结构，每一个节点左子树都小于节点，右子树都大于节点，而每一个节点也都是二叉搜索树，所以这种树查询时每次都可以过滤掉一半数据，这样就带啦了极大查找效率lg(n)，插入和删除都是类似链表操作O(1)
   Tree level review->[tree level review](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p7_treeLevelReview.c)<br>
   Tree bsttreemorphism[树的同构][bsttreemorphism](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/p9_bsttreemorphism.c)<br>
+  <>二叉树查询效率高，需要保持两边平衡，如果单边树就退化为链表，因此在工程中有了平衡二叉树和B+树对基础二叉树做补充<br>
