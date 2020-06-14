@@ -7,11 +7,11 @@
 
 # DataStructure
 
-- linear structure<br.
+- linear structure->
 [list](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/commit/68d4d006350dd1f2c2dedac496bd91b5b6e42e8f)<br>
 <>数组实现，数组有位置索引，查找效率高O(1)，插入和删除效率低O(n)<br>
 <>链表实现， 链表没有位置索引查找效率低O(n)，插入和删除效率高O(1)，但是删除前要先找到所以效率还是O(1)
 - merge two sorted list
-- reverse list
+- reverse list->
 [reverse list](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/reverseLinkedList.c)
 <>这两个练习都是采用双指针策略实现<br>
