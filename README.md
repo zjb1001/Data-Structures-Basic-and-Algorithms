@@ -20,5 +20,5 @@
 - linear structure<array list>
   [array list](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/arraylist.h)
   
-- Stack<br>
+- Stack->[stack](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/stack.h)<br>
   <>堆栈实际应用中有着广泛的应用，浏览器历史的后退，浏览器，文件路径浏览，还有一些编程过程减轻思考压力，标记符对应，深搜非递归模拟系统栈<br>
