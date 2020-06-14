@@ -15,4 +15,4 @@
 - reverse list->
 [reverse list](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/reverseLinkedList.c)
 - find reverse Kth list->[findRevKthList](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/findListRevKth.c)<br>
-<>这两个练习都是采用双指针策略实现<br>
+<>这几个练习都是采用双指针策略实现<br>
