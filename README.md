@@ -19,3 +19,6 @@
 
 - linear structure<array list>
   [array list](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/arraylist.h)
+  
+- Stack<br>
+  <>堆栈实际应用中有着广泛的应用，
