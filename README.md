@@ -13,4 +13,5 @@
 <>链表实现， 链表没有位置索引查找效率低O(n)，插入和删除效率高O(1)，但是删除前要先找到所以效率还是O(1)
 - merge two sorted list
 - reverse list
+[reverse list](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/reverseLinkedList.c)
 <>这两个练习都是采用双指针策略实现<br>
