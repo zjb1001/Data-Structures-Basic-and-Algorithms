@@ -32,6 +32,11 @@
   队列在查找，删除，插入均为O(1)，作为有序操作过程，可以对两端进行操作，构造队列基于线性结构均可实现<br>
   queue->
   [Queue](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/queue.c)<br>
+  
+- HashTable
+  <>哈希表也是线性数据结构，她是为了提高查询效率而存在，通过一定算法映射将Key转化为数组索引，使得查询效率O(1)，严格来说这是不冲突的情况下
+  生成哈希表有很成熟的算法支持，我手撸了线性探测解决冲突的生成算法，
+  hash->[Has]()<br>
 #### 前面几种都是线性结构，无论是连续物理空间还是非连续物理空间，从原型抽象角度，使用时都是线性。实际使用中还有很多是线性结构不足以描述的联系，比如计算机文件系统，提供计件收费的系统，时时把时间消耗最短的任务优先完成，生活中人与人相互联系系统。这些都是非线性，这里就引入了树，堆，图结构
 
 - BSTree->[Tree](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/blob/master/tree.c)<br>
