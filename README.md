@@ -8,7 +8,7 @@
 # DataStructure
 
 - linear structure[link](https://github.com/zjb1001/DataSturctue-Basic-and-Algorithm-/commit/68d4d006350dd1f2c2dedac496bd91b5b6e42e8f)
-*一般来说有两种实现，一种是数组，数组有位置索引，查找效率高O(1)，插入和删除效率低O(n)
-                   *二是链表， 链表没有位置索引查找效率低O(n)，插入和删除效率高O(1)，但是删除前要先找到所以效率还是O(1)
+- 数组实现，数组有位置索引，查找效率高O(1)，插入和删除效率低O(n)
+- 链表实现， 链表没有位置索引查找效率低O(n)，插入和删除效率高O(1)，但是删除前要先找到所以效率还是O(1)
 - merge two sorted list
 - reverse list
